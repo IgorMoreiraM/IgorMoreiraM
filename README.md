@@ -31,3 +31,5 @@ Iniciante na área de desenvolvimento de projetos com o uso de tecnologias Web e
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   <a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </div>
+
+![Snake animation](https://github.com/IgorMoreiraM/IgorMoreiraM/blob/output/github-contribution-grid-snake.svg)
